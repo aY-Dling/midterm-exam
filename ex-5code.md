@@ -19,6 +19,6 @@ while i>=0:
 print(x)
 
 程式截圖:
-https://github.com/aY-Dling/midterm-exam/blob/main/ex5.python.png
+![ex-5截圖](https://github.com/aY-Dling/midterm-exam/blob/main/ex5.python.png)
 
 
